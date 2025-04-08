@@ -1,5 +1,10 @@
 # 🌍 TP3 – Analyse de l’impact du changement climatique (France-Europe 1970–2024)
 
+## 👨‍🎓 Auteur
+**Mathieu**  
+https://mathieuastruc.com/
+[ESAIP – 2025]
+
 ## 🎯 Objectif du projet
 Ce projet a pour but d’analyser l’évolution climatique en France (et potentiellement en Europe) à travers l’étude :
 - Des températures moyennes annuelles
@@ -61,12 +66,6 @@ Il s’inscrit dans le cadre du **TP3 Open Data**
 - **World Bank** – Indicateurs climatiques : https://data.worldbank.org
 - **EM-DAT** – Catastrophes naturelles : https://emdat.be
 
----
-
-## 👨‍🎓 Auteur
-**Mathieu**  
-https://mathieuastruc.com/
-[ESAIP – 2025]
 
 ---
 
